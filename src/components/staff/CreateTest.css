@@ -1,0 +1,63 @@
+.createTest-main-container {
+  padding: 20px;
+}
+
+.createTest-main-container > h1 {
+  text-align: center;
+}
+
+.createTest-sub-container-1 {
+  background: white;
+  padding: 5px;
+}
+
+.createTest-sub-container-1 > input,
+button,
+select {
+  padding: 10px;
+  margin: 10px;
+  border-radius: 5px;
+  border: none;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.createTest-main-container > button {
+  color: white;
+  background: rgb(63, 60, 60);
+}
+
+.createTest-sub-container-1 > button {
+  color: white;
+  background: rgb(63, 60, 60);
+}
+
+.createTest-sub-container-2 {
+  background: white;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border-radius: 20px;
+  margin: 10px;
+}
+
+.createTest-sub-container-2 > h3 {
+  text-align: center;
+}
+
+.createTest-sub-container-2 > input {
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 6px;
+}
+
+.createTest-sub-container-2 > div {
+  display: flex;
+  flex-direction: row;
+  margin: 5px;
+}
+
+.createTest-sub-container-2 > div > input {
+  border: 1px solid black;
+  border-radius: 5px;
+}

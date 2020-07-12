@@ -1,0 +1,18 @@
+.myHistory-main-container {
+  padding: 10px;
+}
+
+.myHistory-main-container > h1 {
+  text-align: center;
+}
+
+.myHistory-sub-container {
+  padding: 10px;
+  margin: 15px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.myHistory-sub-container > span {
+  font-weight: bolder;
+}
